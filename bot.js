@@ -17,7 +17,7 @@ client.on('ready', () => {
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = [`${client.guilds.size} Server`,'Dmar Bot™ by Dmar','Type -help |-support |-invite ',`${client.users.size} Members`,'-invite','By: n3k4a & Hosam | BaronTube'];
+    var setGame = [`${client.guilds.size} Server`,'Dmar Bot™ by Dmar','Type -help |-support |-invite ',`${client.users.size} Members`,'-invite','By: Rù , Youssef.#1000'];
     var i = -1;
     var j = 0;
     setInterval(function (){
